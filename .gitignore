@@ -1,0 +1,10 @@
+*.egg-info
+.coverage
+htmlcov
+
+__pycache__/
+.ipynb_checkpoints/
+
+.*cache/
+.eggs/
+venv/
